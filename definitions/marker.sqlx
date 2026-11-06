@@ -1,0 +1,5 @@
+config {
+  type: "view",
+  name: "toctou_marker"
+}
+SELECT "DATAFORM_LEGIT_V1" AS marker
